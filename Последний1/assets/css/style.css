@@ -1,0 +1,770 @@
+
+/*xs*/@media (max-width:575px) {
+ .first-screen .fitst-text {
+	   display: none!important;
+}
+
+ .first-screen .first-nav {
+		display: none!important;
+}
+
+ .first-screen .collapseone {
+	position: absolute;
+}
+
+ .first-screen .paragraph {
+	padding-top:2%;
+}
+
+.collapseone .collapse a{
+color: white;
+text-decoration: none;
+font-size: 14px;
+line-height: 40px;
+}
+
+.collapseone .collapse a:hover{
+color: white;
+}
+
+.collapsing a{
+color: white;
+text-decoration: none;
+font-size: 14px;
+line-height: 40px;
+}
+
+.collapsing a:hover{
+color: white;
+}
+.second-screen {
+ 	background-color: #282828!important;
+ }
+  	.second-screen p {
+		font-size: 12px!important;
+	}
+ 	.second-screen img {
+		height: 80px!important;
+	}
+
+
+.second-screen .glass {
+display: none!important;
+}
+
+ .third-img {
+ 	display: none!important;
+ }
+
+   	.third-screen .two-screen-two {
+		font-size: 12px;
+	}
+	.third-screen .third-two-img {
+		display: none!important;
+	}
+
+  .fourth-screen {
+	 	background-color: #282828!important;
+}
+
+.fourth-screen .head {
+	width: 40%!important;
+	margin-left: 30.5%!important;
+	margin-top: 5%!important;
+}
+
+.fourth-screen .test {
+	width: 60%!important;
+}
+
+.footer-pool {
+		display: none!important;
+}
+.footer-pool-one {
+	margin-top: 0px!important;
+}
+.footer-pool-two {
+	margin-top: 0px!important;
+}
+
+.footer {
+  		display: none!important;
+}
+.footer-three {
+  		display: none!important;
+}
+.fiveth-screen {
+	height: 100%;
+}
+}
+/*sm*/@media (min-width:576px) and (max-width:767px) {
+ .first-screen .fitst-text {
+	   display: none!important;
+}
+
+ .first-screen .first-nav {
+		display: none!important;
+}
+
+ .first-screen .collapseone {
+	position: absolute;
+}
+
+ .first-screen .paragraph {
+	padding-top:2%;
+}
+
+.collapseone .collapse a{
+color: white;
+text-decoration: none;
+font-size: 14px;
+line-height: 40px;
+}
+
+.collapseone .collapse a:hover{
+color: white;
+}
+
+.collapsing a{
+color: white;
+text-decoration: none;
+font-size: 14px;
+line-height: 40px;
+}
+
+.collapsing a:hover{
+color: white;
+}
+.second-screen {
+ 	background-color: #282828!important;
+ }
+.second-screen p {
+		font-size: 12px!important;
+}
+.second-screen img {
+		height: 90px!important;
+}
+
+.second-screen .glass {
+display: none!important;
+}
+
+ .third-img {
+ 	display: none!important;
+ }
+
+  	.third-screen .two-screen-two {
+		font-size: 12px;
+	}
+	.third-screen .third-two-img {
+		display: none!important;
+	}
+
+ .fourth-screen {
+	 	background-color: #282828!important;
+}
+
+.fourth-screen .head {
+	width: 40%!important;
+	margin-left: 30.5%!important;
+	margin-top: 5%!important;
+}
+
+.fourth-screen .test {
+	width: 60%!important;
+}
+
+.footer-pool {
+		display: none!important;
+}
+.footer-pool-one {
+	margin-top: 0px!important;
+}
+.footer-pool-two {
+	margin-top: 0px!important;
+}
+
+.footer {
+  		display: none!important;
+}
+.footer-three {
+  		display: none!important;
+}
+.fiveth-screen {
+	height: 100%;
+}
+}
+
+/*md*/@media (min-width:768px) and (max-width:991px) {
+ .first-screen .fitst-text {
+	   display: none!important;
+}
+
+ .first-screen .first-nav {
+		display: none!important;
+}
+
+ .first-screen .collapseone {
+	position: absolute;
+}
+
+ .first-screen .paragraph {
+	padding-top:2%;
+}
+
+.collapseone .collapse a{
+color: white;
+text-decoration: none;
+font-size: 14px;
+line-height: 40px;
+}
+
+.collapseone .collapse a:hover{
+color: white;
+}
+
+.collapsing a{
+color: white;
+text-decoration: none;
+font-size: 14px;
+line-height: 40px;
+}
+
+.collapsing a:hover{
+color: white;
+}
+
+.second-screen {
+ 	background-color: #282828!important;
+ }
+ 	.second-screen p {
+		font-size: 12px!important;
+	}
+	.second-screen img {
+		height: 100px!important;
+	}
+.third-img {
+ display: none!important;
+ }
+
+ 	.third-screen .two-screen-two {
+		font-size: 14px;
+	}
+	.third-screen .third-two-img {
+		display: none!important;
+	}
+
+ .fourth-screen {
+	 	background-color: #282828!important;
+}
+
+.fourth-screen .head {
+	width: 40%!important;
+	margin-left: 30.5%!important;
+	margin-top: 5%!important;
+}
+
+.fourth-screen .test {
+	width: 70%!important;
+}
+
+
+.footer-pool {
+		display: none!important;
+}
+
+.footer {
+  		display: none!important;
+}
+.footer-three {
+  		display: none!important;
+}
+.fiveth-screen {
+	height: 100%;
+}
+}
+
+/*lg*/@media (min-width:992px) and (max-width:1199px) {
+.collapseone {
+		   display: none!important;
+}
+	.second-screen {
+	background-image: url('../img/back2.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+	.second-screen p {
+		font-size: 12px!important;
+	}
+
+	.third-screen .two-screen-two {
+		font-size: 14px;
+	}
+
+ .fourth-screen {
+	 	background-color: #282828!important;
+}
+.fourth-screen .test {
+	width: 53%!important;
+}
+
+.fourth-screen .head {
+	width: 40%!important;
+	margin-left: 30.5%!important;
+	margin-top: 5%!important;
+}
+
+.fiveth-screen {
+	height: 220px;
+}
+}
+
+/*xl*/@media (min-width:1200px) and (max-width:1399px) {
+.collapseone {
+		   display: none!important;
+}
+	.second-screen {
+	background-image: url('../img/back2.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+ .fourth-screen {
+	background-image: url('../img/back3.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+ .fourth-screen .test1{
+	display: none!important;
+}
+
+ .fourth-screen .test2{
+	display: none!important;
+}
+.fourth-screen .test {
+	width: 45%!important;
+}
+.fiveth-screen {
+	height: 220px;
+}
+}
+
+/*xxl*/@media (min-width:1400px) and (max-width:1599px) {
+.collapseone {
+		   display: none!important;
+}
+	.second-screen {
+	background-image: url('../img/back2.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.fourth-screen {
+	background-image: url('../img/back3.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+ .fourth-screen .test1{
+	display: none!important;
+}
+
+ .fourth-screen .test2{
+	display: none!important;
+}
+.fiveth-screen {
+	height: 220px;
+}
+}
+
+@media (min-width:1600px) and (max-width:1799px) {
+	.collapseone {
+			   display: none!important;
+	}
+		.second-screen {
+	background-image: url('../img/back2.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.fourth-screen {
+	background-image: url('../img/back3.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+ .fourth-screen .test1{
+	display: none!important;
+}
+
+ .fourth-screen .test2{
+	display: none!important;
+}
+.fiveth-screen {
+	height: 220px;
+}
+}
+
+@media (min-width:1800px) and (max-width:1920px) {
+	.collapseone {
+			   display: none!important;
+	}
+		.second-screen {
+	background-image: url('../img/back2.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+ .fourth-screen {
+	background-image: url('../img/back3.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+ .fourth-screen .test1{
+	display: none!important;
+}
+
+ .fourth-screen .test2{
+	display: none!important;
+}
+.fiveth-screen {
+	height: 220px;
+}
+}
+
+@media (min-width:1921px) {
+	.collapseone {
+			   display: none!important;
+	}
+	.second-screen {
+	background-image: url('../img/back2.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+ .fourth-screen {
+	background-image: url('../img/back3.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+ .fourth-screen .test1{
+	display: none!important;
+}
+
+ .fourth-screen .test2{
+	display: none!important;
+}
+
+.fiveth-screen {
+	height: 220px;
+}
+}
+
+
+body {
+	font-family: 'Montserrat', sans-serif!important;
+}
+
+.first-screen {
+	height: 47vw;
+	background-image: url('../img/bg first-screen.png');
+	background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.first-screen {
+	color: white;
+	font-size: 12px;
+}
+
+.fitst-text {
+	padding-top: 30px;
+}
+
+.first-screen .first-nav li{
+  border: 1px solid;
+  border-left: none;
+}
+
+.first-screen .first-nav li:last-child{
+  border: 1px solid;
+  border-left: none;
+  border-right: none;
+}
+
+.first-screen .first-nav a{
+  color: white;
+  text-align: center;
+}
+
+.first-screen .first-nav a:hover{
+  color: white;
+}
+
+.first-screen .paragraph {
+margin-bottom: 26%;
+}
+
+.firstbtn {
+	margin-left: 25px;
+	font-size: 15px;
+	height: 50px;
+	padding-top: 15px;
+	text-align: center;
+	background-color: #99862A;
+	color: white;
+	text-decoration: none;
+}
+
+.firstbtn:hover {
+	color: white;
+}
+
+.second-screen {
+	height: 45vw;
+}
+
+.second-screen h3 {
+	margin-top: 11%;
+	color: white;
+	text-align: center;
+	margin-bottom: 8%;
+	font-family: 'Playfair Display', serif!important;
+}
+
+.second-screen p {
+	color: white;
+	text-align: center;
+	font-size: 16px;
+}
+
+ .second-screen .second-screen-two {
+ 	padding: 85px;
+ 	border: 3px solid #C4C4C4;
+ 	margin-top: 100px;
+ }
+
+ .second-screen img {
+	 height: 160px;
+ }
+
+
+.third-screen {
+	height: 1038px;
+	background-color: #E6E3C4;
+}
+
+.third-screen h3 {
+	font-family: 'Playfair Display', serif!important;
+}
+
+.third-screen .third-screen-two .hr-third {
+	margin-top: 80px;
+	margin-bottom: 60px;
+}
+
+.third-screen .third-screen-two .text-third {
+	margin-bottom: 40px;
+}
+
+.third-screen .third-screen-two .text-third-two {
+	margin-top: 40px;
+}
+
+.third-screen .third-screen-two .table-third-1 {
+	border-bottom: 1px black solid;
+}
+
+.third-screen .third-screen-two .table-third-2 {
+	border-bottom: 1px black solid;
+	border-left: 1px black solid;
+}
+
+.third-screen .third-screen-two .table-third-3 {
+	border-left: 1px black solid;
+}
+
+.third-screen .third-screen-two .table-third h6 {
+	text-align: center;
+	padding-top: 15px;
+	font-family: 'Playfair Display', serif!important;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+.third-screen .third-screen-two .table-third p {
+	text-align: center;
+}
+
+.third-screen .third-screen-two .table-third  .col-2 p {
+	text-align: center;
+	padding-top: 30px;
+}
+
+.third-screen .third-screen-two img {
+	margin-bottom: 24px;
+}
+
+.third-screen .third-screen-two .thirdbtn a {
+	text-decoration: none;
+	color: white;
+	font-size: 15px;
+	height: 50px;
+	padding: 10px 40px 10px 40px;
+	text-align: center;
+	background-color: #99862A;
+	text-decoration: none;
+}
+
+.third-screen .third-screen-two .thirdbtn a:hover {
+	color: white;
+}
+
+.third-screen .third-screen-two .thirdbtn {
+	margin-top: 30px;
+	margin-bottom: 60px;
+}
+
+.third-screen .thirdbtntwo{
+margin-bottom: 8%;
+}
+
+.fourth-screen {
+	height: 40vw;
+}
+
+.fourth-screen h3 {
+	font-family: 'Playfair Display', serif!important;
+}
+
+.fourth-screen .head {
+	background-color: #282828;
+	text-align: center;
+	width: 30%;
+	color: white;
+	margin-left: 36%;
+	margin-top: 7%;
+}
+
+.fourth-screen p {
+	font-size: 16px;
+	margin-top: 5%;
+	color: white;
+	text-align: center;
+}
+
+.fourth-screen .test {
+	width: 38%;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+.fourth-screen .forma form input  {
+	background-color: #282828;
+    border-bottom: 1px white solid;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+	margin-bottom: 30px;
+}
+
+.fourth-screen .forma form input .input-four {
+	color: red!important;
+}
+
+.fourth-screen .row {
+  	--bs-gutter-x: 0rem;
+}
+
+.fourth-screen form {
+	text-align: center;
+}
+
+ .fourthbtn {
+ 	text-align: center;
+ }
+
+ .fourthbtn a {
+	font-size: 16px;
+	height: 50px;
+	text-align: center;
+	background-color: #282828;
+	border: 1px white solid;
+	text-decoration: none;
+	color: white;
+    padding: 10px 198px 10px 198px;
+}
+
+.fourthbtn a:hover {
+	color: white;
+}
+
+.input-four {
+	width: 240px;
+	margin-right: 25px;
+}
+.input-four-two {
+	width: 240px;
+}
+.input-four-three {
+	width: 510px;
+}
+.fourth-screen form {
+	padding-left: 0px!important;
+}
+
+
+
+.fiveth-screen {
+	background-color: #998431;
+	font-size: 14px;
+}
+
+.fiveth-screen .footer a{
+	color: white;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.fiveth-screen .footer li{
+	border: 1px white solid;
+	border-left: none;
+	border-right: none;
+	margin-top: 50px;
+}
+
+.fiveth-screen .footer-three li{
+	border: 1px white solid;
+	border-left: none;
+	border-top: none;
+}
+
+.fiveth-screen .footer-three li:last-child{
+	border: 1px white solid;
+	border-left: none;
+	border-right: none;
+	border-top: none;
+}
+
+.fiveth-screen .footer-three a{
+	color: white;
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.fiveth-screen .footer-three a:hover{
+	color: white;
+}
+
+.footer-three {
+	height: 60px;
+}
+
+.contact a i{
+	font-size: 20px;
+	margin-right: 20px;
+	margin-top: 15px;
+}
+
+.contact {
+	padding: 0px!important;
+}
